@@ -1,4 +1,10 @@
-# Getting Started with Create React App
+# JAMstack App - Build a Fullstack App with React, Serverless, and FaunaDB
+
+This is the source code for the [JAMstack App]. It uses FaunaDB (with GraphQL), Netlify, and React to build a fullstack Link Saver application. 
+
+[Live Site](https://girish-list-o-links.netlify.app))
+
+## Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
